@@ -1,15 +1,15 @@
 {
     "extName": {
-        "message": "New Google Tab",
+        "message": "New DuckDuckGo Tab",
         "description": "The title of the extension, displayed in the web store."
 
     },
     "extDesc": {
-        "message": "Get Google back as your new tab page.",
+        "message": "Get DuckDuckGo back as your new tab page.",
         "description":"The description of the extension, displayed in the web store."
     },
     "tabTitle": {
-        "message": "New Google Tab",
+        "message": "New DuckDuckGo Tab",
         "description":"New tab page title."
     }
 }
